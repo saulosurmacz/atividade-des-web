@@ -1,2 +1,2 @@
 # atividade-des-web
-atividade de desenvolvimento web usando grid, display flex e 
+atividade de desenvolvimento web usando grid e display flex
